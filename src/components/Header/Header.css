@@ -1,0 +1,31 @@
+.header-container {
+    background-color: black;
+    padding: 1.3rem;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+nav div h3 {
+    color: white;
+    font-weight: 700;
+}
+
+nav div {
+    display: flex;
+   
+    gap: 4rem;
+}
+nav p {
+    text-decoration: none !important;
+    color: #f2f2f4be;
+    font-size: 1.4rem;
+    font-weight: 500;
+
+    border-radius: .3rem;
+}
+
+.header-nva Link {
+    text-decoration: none !important;
+}
