@@ -1,7 +1,7 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
 import cookie from "react-cookies";
-const url = 'http://localhost:3008/api'
+const url = 'https://online-shopoing-mohammad.herokuapp.com/api'
 
 // get all users
 export const getAllUser = createAsyncThunk("users/getAllUser", async (id, thunkApi) => {

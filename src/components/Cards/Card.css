@@ -65,7 +65,7 @@ a
 .product-details h4 .title-card {
     font-weight: 500;
     display: block;
-    margin-bottom: 18px;
+    margin: 18px 0;
     text-transform: uppercase;
     color: #363636;
     text-decoration: none;
